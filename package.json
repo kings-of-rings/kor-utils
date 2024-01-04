@@ -1,7 +1,7 @@
 {
   "name": "@kings-of-rings/kor-utils",
-  "version": "0.0.1",
-  "description": "Functions to handle Kor Events",
+  "version": "0.0.2",
+  "description": "Kor Utils",
   "main": "lib/index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
