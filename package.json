@@ -1,6 +1,6 @@
 {
   "name": "@kings-of-rings/kor-utils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Kor Utils",
   "main": "lib/index.js",
   "publishConfig": {
