@@ -1,0 +1,25 @@
+{
+  "name": "@kings-of-rings/kor-utils",
+  "version": "0.0.1",
+  "description": "Functions to handle Kor Events",
+  "main": "lib/index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "typescript": "^5.3.3"
+  },
+  "author": "XDev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.3",
+    "dotenv": "^16.3.1",
+    "prettier": "^3.1.1",
+    "ethers": "^6.9.2"
+  }
+}
