@@ -15,7 +15,7 @@ export const callProtectedLambda = async (endpoint: string, apiKey: string, payl
 			}
 		}
 		).catch(function (error) {
-			//console.log('Error1 ', error);
+			console.log('Error1 ', error);
 			return error;
 		});
 
